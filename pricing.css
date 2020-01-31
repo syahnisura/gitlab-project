@@ -1,0 +1,17 @@
+.image-brand {
+  width: 120px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navlink {
+  display: flex;
+}
+
+li {
+  list-style: none;
+  margin: 10px;
+}
